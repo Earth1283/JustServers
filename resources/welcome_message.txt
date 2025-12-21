@@ -1,3 +1,0 @@
-[#90EE90]Welcome to the world of server management over SSH (Secure SHell)[/#90EE90]
-[blue]This program will guide you on the installation and management of a locally hosted Minecraft Java Edition server.[/blue]
-To begin, let's start by asking you some questions!
